@@ -1,3 +1,5 @@
+This is our basic story for CS 2
+
 Initial condition
 
 Initial low point
