@@ -1,6 +1,7 @@
 This is our basic story for CS 2
 
 Initial condition
+It is a happy condition and we are enjoying ourselves.
 
 Initial low point
 
