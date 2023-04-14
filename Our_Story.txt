@@ -14,5 +14,6 @@ False resolution
 
 
 Story low
+It's not 1:50 yet. :(
 
 End of cononflict
